@@ -1,0 +1,2 @@
+# Ball-Breaker-Game
+En resumen, el código del Ball Breaker Game es una implementación cautivadora de un clásico juego de arcade en HTML,CSS y javascript que te brinda horas de diversión y emoción mientras intentas superar niveles, romper bloques y obtener la máxima puntuación. Prepárate para sumergirte en este adictivo desafío lleno de acción y estrategia. ¡Diviértete y demuestra tus habilidades en el Ball Breaker Game!
